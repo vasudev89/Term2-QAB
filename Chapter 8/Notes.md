@@ -34,8 +34,10 @@
 
 <img src="https://github.com/vasudev89/Term2-QAB/blob/master/Chapter%208/Fig%208.3.PNG"
      alt="Fig 8.3"
-     style="float: left; margin-right: 10px;" />
-<<<<<<< HEAD
+     style="margin: auto;" />
 
-> __Common Confidence Values__: 99%, 98%, 95%, 90%
+> __Common Confidence Values__: 99%, 98%, 95%, 90%. Associated z-values in table below
 
+<img src="https://github.com/vasudev89/Term2-QAB/blob/master/Chapter%208/Fig%208.3.PNG"
+     alt="Fig 8.3"
+     style="margin: auto;" />
