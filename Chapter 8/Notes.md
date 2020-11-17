@@ -29,3 +29,7 @@
 > x̅ - (z-alpha2 * σ/sqrt(n)) <= μ <= x̅ + (z-alpha2 * σ/sqrt(n))
 - alpha = region in the bell curve that lies outside of the confidence interval
 - alpha2 = region in the bell curve that lies outside of the confidence interval on either side(1 tail)
+
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
