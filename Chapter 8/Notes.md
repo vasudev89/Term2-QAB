@@ -30,6 +30,6 @@
 - alpha = region in the bell curve that lies outside of the confidence interval
 - alpha2 = region in the bell curve that lies outside of the confidence interval on either side(1 tail)
 
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
+<img src="https://github.com/vasudev89/Term2-QAB/blob/master/Chapter%208/Fig%208.3.PNG"
+     alt="Fig 8.3"
      style="float: left; margin-right: 10px;" />
