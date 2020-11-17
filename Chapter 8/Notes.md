@@ -33,6 +33,11 @@
 <img src="https://github.com/vasudev89/Term2-QAB/blob/master/Chapter%208/Fig%208.3.PNG"
      alt="Fig 8.3"
      style="float: left; margin-right: 10px;" />
+<<<<<<< HEAD
 
 > __Common Confidence Values__: 99%, 98%, 95%, 90%
 
+=======
+     
+> Common Confidence Values: 99%, 98%, 95%, 90%
+>>>>>>> 9f0d3b721dfa6fe2e87b705bbc421cefce630196
