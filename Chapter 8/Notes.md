@@ -37,7 +37,3 @@
 
 > __Common Confidence Values__: 99%, 98%, 95%, 90%
 
-=======
-     
-> Common Confidence Values: 99%, 98%, 95%, 90%
->>>>>>> 9f0d3b721dfa6fe2e87b705bbc421cefce630196
