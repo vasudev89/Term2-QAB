@@ -38,6 +38,6 @@
 
 > __Common Confidence Values__: 99%, 98%, 95%, 90%. Associated z-values in table below
 
-<img src="https://github.com/vasudev89/Term2-QAB/blob/master/Chapter%208/Fig%208.3.PNG"
-     alt="Fig 8.3"
+<img src="https://github.com/vasudev89/Term2-QAB/blob/master/Chapter%208/Table%208.1.PNG"
+     alt="Table 8.1"
      style="margin: auto;" />
