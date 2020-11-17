@@ -56,6 +56,8 @@
 >
 > 500.22 <= mu <= 519.78
 
+<br>
+
 ### Finite Correction Factor
 
 - If the sample is taken from a finite population, a finite correction factor may be used to increase the accuracy of the solution.
@@ -65,4 +67,17 @@
 - Question:
 	- A study is conducted in a company that employs 800 engineers. A random sample of 50 engineers reveals that the average sample age is 34.3 years. Historically, the population standard deviation of the age of the company’s engineers is approximately 8 years. Construct a 98% confidence interval to estimate the average age of all the engineers in this company.
 
+> Given
+>
+> N = 800, n = 50, sigma = 8, xbar = 34.3, CF Level = 98%
+>
+> For CF Level = 98%, z = 2.33
+>
+> Thus
+> 34.3 - 2.33 * 8/sqrt(50) * sqrt((800-50)/(800-1)) <= mu <= 34.3 - 2.33 * 8/sqrt(50) + sqrt((800-50)/(800-1))
 > 
+> 31.75 <= mu <= 36.85
+>
+> __Without the correction factor, the confidence interval would be__
+> 31.66 <= mu <= 36.94
+>
