@@ -79,5 +79,7 @@
 > 31.75 <= mu <= 36.85
 >
 > __Without the correction factor, the confidence interval would be__
+>
 > 31.66 <= mu <= 36.94
 >
+> __which is wider than with the correction factor__
