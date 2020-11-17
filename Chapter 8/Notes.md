@@ -31,7 +31,8 @@
 > μ = x̅ +/- (z * σ/sqrt(n))
 #### Formal Definition
 > x̅ - (z-alpha2 * σ/sqrt(n)) <= μ <= x̅ + (z-alpha2 * σ/sqrt(n))
-> <img src="https://bit.ly/2UCKAEM">
+>
+> <img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbar%7Bx%7D%20-%20z%20*%20%5Csigma%2F%5Csqrt%7Bn%7D%20%3C%3D%20%5Cmu%20%3C%3D%20%5Cbar%7Bx%7D%20%2B%20z%20*%20%5Csigma%2F%5Csqrt%7Bn%7D">
 - alpha = region in the bell curve that lies outside of the confidence interval
 - alpha2 = region in the bell curve that lies outside of the confidence interval on either side(1 tail)
 
