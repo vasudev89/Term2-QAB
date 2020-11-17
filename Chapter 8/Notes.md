@@ -25,7 +25,7 @@
 > μ = x̅ - (z * σ/sqrt(n))
 - Because the sample mean can be > or < than the sample mean
 > μ = x̅ +/- (z * σ/sqrt(n))
-##### Formal Definition
+#### Formal Definition
 > x̅ - (z-alpha2 * σ/sqrt(n)) <= μ <= x̅ + (z-alpha2 * σ/sqrt(n))
 - alpha = region in the bell curve that lies outside of the confidence interval
 - alpha2 = region in the bell curve that lies outside of the confidence interval on either side(1 tail)
