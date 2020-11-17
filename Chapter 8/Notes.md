@@ -1,4 +1,4 @@
-# Estimating the Population mean using the z statistic(sigma unknown)
+# Estimating the Population mean using the z statistic(sigma known)
 
 ### Fundamental Problem
 - Population Sizes might be too big: infeasible to capture each element in order to calc the **mean**
@@ -55,3 +55,14 @@
 > Thus 510 - 1.96 * 46/sqrt(85) <= mu <= 510 + 1.96 * 46/sqrt(85)
 >
 > 500.22 <= mu <= 519.78
+
+### Finite Correction Factor
+
+- If the sample is taken from a finite population, a finite correction factor may be used to increase the accuracy of the solution.
+- Formula will revise to
+> x̅ - (z-alpha2 * σ/sqrt(n)) * sqrt((N-n)/(N-1)) <= μ <= x̅ + (z-alpha2 * σ/sqrt(n)) * sqrt((N-n)/(N-1))
+
+- Question:
+	- A study is conducted in a company that employs 800 engineers. A random sample of 50 engineers reveals that the average sample age is 34.3 years. Historically, the population standard deviation of the age of the company’s engineers is approximately 8 years. Construct a 98% confidence interval to estimate the average age of all the engineers in this company.
+
+> 
