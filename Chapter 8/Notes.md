@@ -11,7 +11,7 @@
 - Take a random sample from the population and estimate the mean accordingly
 
 ### Point Estimate
-- *A #point estimate# is a #statistic# taken from a sample that is used to estimate a #population parameter#.*
+- *A __point estimate__ is a #statistic# taken from a sample that is used to estimate a #population parameter#.*
 - If other random samples are drawn from the population the point estimate will show variation.
 
 ### Interval Estimate
