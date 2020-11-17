@@ -17,3 +17,7 @@
 ### Interval Estimate
 - *An interval estimate (confidence interval) is a range of values within which the analyst can declare, with some confidence, the population parameter lies*
 - May be two or one sided
+
+### Confidence Interval Construction
+- From Central Limit Theorem (n>=30 or the sample is normally distributed for n<30)
+- z-score = (x̅ - μ) / (σ/sqrt(n))
