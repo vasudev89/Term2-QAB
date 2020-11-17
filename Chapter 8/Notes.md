@@ -29,6 +29,7 @@
 > μ = x̅ +/- (z * σ/sqrt(n))
 #### Formal Definition
 > x̅ - (z-alpha2 * σ/sqrt(n)) <= μ <= x̅ + (z-alpha2 * σ/sqrt(n))
+> \bar{x} - z * \sigma/\sqrt{n} <= \mu <= \bar{x} + z * \sigma/\sqrt{n}
 - alpha = region in the bell curve that lies outside of the confidence interval
 - alpha2 = region in the bell curve that lies outside of the confidence interval on either side(1 tail)
 
