@@ -36,8 +36,22 @@
      alt="Fig 8.3"
      style="margin: auto;" />
 
+- For 95% confidence, alpha = .05 and alpha2 = .025.
+- The value of z-alpha.025 is found by looking in the standard normal table under .5000 - .0250 = .4750
+- Corresponding value is 1.96
+
 > __Common Confidence Values__: 99%, 98%, 95%, 90%. Associated z-values in table below
 
 <img src="https://github.com/vasudev89/Term2-QAB/blob/master/Chapter%208/Table%208.1.PNG"
      alt="Table 8.1"
      style="margin: auto;" />
+
+> Given
+>
+> xbar = 510, sigma = 46, n = 85, and confidence level = 95%
+> 
+> CF Level = 95% => z = 1.96
+>
+> Thus 510 - 1.96 * 46/sqrt(85) <= mu <= 510 + 1.96 * 46/sqrt(85)
+>
+> 500.22 <= mu <= 519.78
