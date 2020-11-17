@@ -42,7 +42,7 @@
 
 - For 95% confidence, alpha = .05 and alpha2 = .025.
 - The value of z-alpha.025 is found by looking in the standard normal table under .5000 - .0250 = .4750
-- Corresponding value is 1.96
+- Corresponding z value is 1.96
 
 > __Common Confidence Values__: 99%, 98%, 95%, 90%. Associated z-values in table below
 
@@ -56,7 +56,7 @@
 > 
 > CF Level = 95% => z = 1.96
 >
-> Thus 510 - 1.96 * 46/sqrt(85) <= mu <= 510 + 1.96 * 46/sqrt(85)
+> Thus <img src="https://chart.apis.google.com/chart?cht=tx&chl=510%20-%201.96%20*%2046%2F%5Csqrt%7B85%7D%20%3C%3D%20%5Cmu%20%3C%3D%20510%20%2B%201.96%20*%2046%2F%5Csqrt%7B85%7D"/>
 >
 > 500.22 <= mu <= 519.78
 
